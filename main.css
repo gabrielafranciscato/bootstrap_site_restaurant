@@ -20,3 +20,7 @@ color: #e15f41;
 .navbar-brand {
     font-family: Pacifico, cursive;
 }
+
+.navbar-toggler {
+    background-color: #ffeae6;
+}
